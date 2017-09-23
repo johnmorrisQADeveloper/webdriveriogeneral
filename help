@@ -1,0 +1,19 @@
+npm install --save-dev webdriverio
+npm install wdio-screenshot --save-dev
+npm install --save-dev blink-diff
+npm install --save-dev mocha-image-compare
+npm install resemblejs --save-dev
+
+
+Example commands for installation on OSX
+
+npm install resemblejs
+brew install pkg-config cairo libpng jpeg giflib
+npm install canvas
+
+
+./node_modules/.bin/wdio
+npm test
+
+
+npm install await --save-dev
